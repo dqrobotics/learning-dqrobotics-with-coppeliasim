@@ -1,6 +1,6 @@
 # CoppeliaSim interface with DQ Robotics: From zero to hero
 
-A crash course on the interface with CoppeliaSim robot simulator.
+A crash course on the interface with the CoppeliaSim robot simulator.
 
 All lessons are in MATLAB Live Script format, meaning that the coding is explained alongside the mathematical equations that they represent. At the end of each lesson, there is a homework section to help the reader internalize the concepts introduced in the lesson.
 
