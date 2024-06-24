@@ -37,4 +37,4 @@ As a crash course on CoppeliaSim interface, these lessons assume basic knowledge
 - [[3]](https://manual.coppeliarobotics.com/en/tutorials.htm) CoppeliaSim tutorials.
 
 ## Comments/Suggestions...
-If you have any issues, please let us know.
+If you have any issues, please let us know via the [discussion forum](https://github.com/dqrobotics/learning-dqrobotics-with-coppeliasim/discussions).
