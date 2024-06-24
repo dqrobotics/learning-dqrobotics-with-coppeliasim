@@ -13,6 +13,7 @@ All lessons are in MATLAB Live Script format, meaning that the coding is explain
 4. Clone this repository or [download it as a ZIP package](https://github.com/dqrobotics/learning-dqrobotics-with-coppeliasim/archive/refs/heads/main.zip).
 5. Install [CoppeliaSim](https://www.coppeliarobotics.com/).
 6. Download the [CoppeliaSim scenes](https://osf.io/2tfsx/) (the .ttt files) used in the lessons.
+   * Or simply run: `curl https://files.de-1.osf.io/v1/resources/2tfsx/providers/osfstorage/?zip= -o scenes.zip`
 7. Open each lesson in MATLAB and follow through the live script.
 
 ## Lessons
