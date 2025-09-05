@@ -7,7 +7,7 @@ All lessons are in MATLAB Live Script format, meaning that the coding is explain
 ## How to use
 
 1. Install [MATLAB](https://www.mathworks.com/products/matlab.html).
-2. Install the most recent Matlab toolbox of DQ Robotics. See our [website](https://dqrobotics.github.io/) for installation instructions.
+2. Install the most recent Matlab toolbox of [DQ Robotics](https://github.com/dqrobotics/matlab/releases/latest). See our [website](https://dqrobotics.github.io/) for installation instructions.
 3. Clone this repository or [download it as a ZIP package](https://github.com/dqrobotics/learning-dqrobotics-with-coppeliasim/archive/refs/heads/main.zip).
 4. Install [CoppeliaSim](https://www.coppeliarobotics.com/).
 5. Download the [CoppeliaSim scenes](https://osf.io/2tfsx/) (the .ttt files) used in the lessons.
